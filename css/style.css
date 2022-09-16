@@ -180,13 +180,17 @@ p {
 
 #about img{
 padding-top: 10%;
-border-radius: 50%;
+
 }
 
 #about p{
-  padding-top: 10%;
+  padding-top: 2%;
   font-size: 17px;
-  color:rgb( 70, 158, 171)
+  color:rgb( 70, 158, 171);
+  text-align: center;
+  /* take out next 2 rows after profile pic added */
+  padding-left: 20%;
+  padding-right: 20%;
 }
 
 /* portfolio section */
